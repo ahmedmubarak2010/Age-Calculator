@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://age-calculator-your-vercel-link.vercel.app" target="_blank">🌐 Live Demo</a> •
+  <a href="https://age-calculator-wheat-gamma.vercel.app/" target="_blank">🌐 Live Demo</a> •
   <a href="https://github.com/ahmedmubarak2010/Age-Calculator" target="_blank">📂 GitHub Repository</a>
 </p>
 
@@ -54,7 +54,7 @@
 
 ## 🚀 Live Demo
 
-👉 **https://age-calculator-your-vercel-link.vercel.app**
+👉 **https://age-calculator-wheat-gamma.vercel.app/**
 
 ---
 
